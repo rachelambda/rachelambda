@@ -1,7 +1,3 @@
-HIRE ME, OH HIRE ME, THE PROGRAMMER SAID
+Mostly C and shell.
 
-I KNOW NODEJS AND KUBERNETES THEY PLEAD
-
-PLEASE HIRE ME, OH PLEASE CORPORATE OVERLORDS, FILL ME WITH GLEE
-
-I PUT MY CREDENTIALS ON GITHUB DON'T YOU SEE
+Some repos might be out of date compared to versions on [my self hosted git](https://git.depsterr.com/).
